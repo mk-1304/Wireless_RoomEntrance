@@ -1,5 +1,5 @@
 #Overview:
-The advanced wirless room entrance systemintegrates room details with individual access cards, offering secure, seamless entry and streamlined room management.
+The advanced wirless room entrance system integrates room details with individual access cards, offering secure, seamless entry and streamlined room management.
 #Components:
 
 Arduino: Controls entrance based on data from card.
