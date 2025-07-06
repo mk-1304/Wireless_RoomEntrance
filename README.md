@@ -1,9 +1,12 @@
 #Overview:
 The advanced wirless room entrance system integrates room details with individual access cards, offering secure, seamless entry and streamlined room management.
+
 #Components:
 
 Arduino: Controls entrance based on data from card.
+
 ESP32: Cloud operations,storing data.
+
 NFC: Used for reading card details and communication with arduino.
 
 #Features
