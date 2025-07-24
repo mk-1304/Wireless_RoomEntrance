@@ -9,6 +9,10 @@ This project implements a secure and automated room access system that integrate
 - **NFC Module** – Reads card information and communicates with the Arduino for identity verification.  
 - **FSR Sensor** – Installed inside rooms to detect card placement and trigger smart lock mechanisms.  
 
+## Project Files
+
+- [Arduino](Arduino.ino)
+- [Esp](Esp32.c)
 ## Features
 
 - **Keyless Entry**  
